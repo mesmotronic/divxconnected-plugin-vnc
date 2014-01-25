@@ -53,11 +53,9 @@ After you click the Login button, you might see "Connection Error" or "Invalid P
 
 Either way, press BACK to try again.
 
-Check out the Mesmotronic Blog for more information about this and Mesmotronic's other DivX Connected plugins.
-
 Plugin
 ------
 
 The DivX Connected plugin is stored in the bin-plugin folder and can be installed simply by double clicking on it on any PC with DivX Connected installed.
 
-For more information see the Mesmotronic Blog at http://blog.mesmotronic.com/
+Check out the Mesmotronic Blog for more information about this and Mesmotronic's other DivX Connected plugins: http://blog.mesmotronic.com/
