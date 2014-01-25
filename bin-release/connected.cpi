@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<plug-in>
+    <title>ConnectedVNC</title>
+    <icon-url>http://labs.mesmotronic.com/connectedvnc/plugin/icon.png</icon-url>
+    <poster-url>http://labs.mesmotronic.com/connectedvnc/plugin/poster.png</poster-url>
+    <page-descriptor>
+        <type>DCTK</type>
+        <source-url>ConnectedVNC.js</source-url>
+    </page-descriptor>
+</plug-in>
