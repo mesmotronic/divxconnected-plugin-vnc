@@ -3,6 +3,8 @@ ConnectedVNC
 
 ConnectedVNC is a free, open-source VNC client that allows you to control your Windows PC from your television using your DivX Connected set-top box.
 
+The plug-in is developed using ActionScript 3 and MXML, with a JavaScript wrapper completing the plug-in.
+
 What's it for?
 --------------
 
